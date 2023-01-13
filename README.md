@@ -12,7 +12,9 @@ To write a python program to find the rank of a matrix
 ## Program:
 
 #Program to find the rank of a matrix.
+
 #Developed by: VAISHALI BALAMURUGAN
+
 #RegisterNumber:22008813
 ```
 import numpy as np
@@ -21,6 +23,7 @@ rank=np.linalg.matrix_rank(A)
 print(rank)
 ```
 ## Output:
+![Uploading outputrank.png…]()
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
